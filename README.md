@@ -7,3 +7,5 @@
  O Footer contém informações menores de contato.
 # PHP
  Foi feito a implementação do PHP das páginas HTML com o XAMPP.
+# Banco de Dados
+ O banco de dados foi feito em MySQL no XAMPP.
